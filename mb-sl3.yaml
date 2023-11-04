@@ -15,8 +15,8 @@ substitutions:
   eth_gateway: "192.168.1.1"
   eth_subnet: "255.255.255.0 "
   #webserver login
-  user: heung
-  pass: 883740Zz
+  user: youruser
+  pass: yourpass
   #I2C address
   i2c_address_in: "0x20"
   i2c_address_out: "0x27"
